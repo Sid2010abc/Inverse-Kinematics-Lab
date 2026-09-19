@@ -20,4 +20,4 @@ Features:
 
 Tech: single self-contained HTML file, vanilla JavaScript. Forward kinematics, Jacobian computation, and the 2x2 matrix inversion for DLS are implemented from scratch with no external math or robotics libraries.
 
-Usage: open `InverseKinematicsLab.html` in a browser, drag the target, and select an active solver to highlight. Ghost overlays and the error chart can be toggled from the sidebar.
+Usage: open `InverseKinematicsLab.html` in a browser or at my website, sid2010abc.github.io, drag the target, and select an active solver to highlight. Ghost overlays and the error chart can be toggled from the sidebar.
